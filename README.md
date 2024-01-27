@@ -1,3 +1,7 @@
+个人尝试去理解并且尝试在嵌入式设备中使用。
+
+
+
 # cNARS
 C/C++ implementation of NARS (Non-Axiomatic-Reasoning-System)
 
